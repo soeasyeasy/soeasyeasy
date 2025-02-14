@@ -8,10 +8,9 @@
 
 ### 😄 Pronouns
 
-
 ### 🌱 What do I do and What have I done? 
 
-- 7年java开发 会点前端、会点运维、会点产品 从事过农业、证券、电力、水务相关业务.
+- 18年毕业 至今主要做java后端开发 也参与过前端、运维、产品相关工作  处理过农业、证券、电力、水务等业务.
 
 ### ⚡ One line that describes me best? 
 勇敢的人 先享受世界.<br>
