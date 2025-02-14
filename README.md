@@ -7,14 +7,16 @@
 - 团队合作： 具备良好的团队合作意识和责任意识，乐于与团队成员分享知识和经验，热爱技术学习和分享，不断追求技术进步和个人成长。
 
 ### 🤔 technology stack：
-- Java核心技术栈： 熟悉Java核心基础、多线程编程、Spring框架家族（包括Spring、Spring Boot、Spring Cloud Alibaba、Spring Gateway、Nacos、Feign）、MyBatis框架及SkyWalking的使用。具备快速构建微服务架构的能力，熟悉面向对象设计原则与多线程编程技巧。
-- 缓存技术： 熟练使用Redis，熟悉分布式锁Redission的使用，对MongoDB有一定了解。
-- 数据库管理： 熟悉MySQL和Oracle数据库的设计、优化及管理，拥有SQL调优经验。
-- 消息队列： 熟练使用RocketMQ等消息队列工具进行系统的异步通信和解耦。
-- 操作系统与运维： 熟练掌握Linux常用命令，能够进行系统部署和维护。
-- 容器化技术： 熟练使用Docker容器技术，能够使用Dockerfile进行服务部署、工作中也使用过harbor、rancher。
-- 版本控制： 熟练使用Git和SVN版本控制系统，具备良好的版本控制和团队协作能力。
-- 其他技术： 了解ElasticSearch搜索引擎、Nginx服务器配置、分库分表策略、基本的数据结构、设计模式、领域驱动设计(DDD)、以及JVM; 了解HTML、CSS、JavaScript、Echarts、Vue2、ElementUI、AntDesign等技术，能进行简单的前端开发；了解Axure RP、墨刀工具，能设计原型图和编写需求文档；了解阿里大数据组件DataWorks、MaxCompute；了解帆软报表开发；了解Python。
+- Java核心技术栈： Java核心基础、多线程编程、Spring、Spring Boot、Spring Cloud Alibaba、Spring Gateway、Nacos、Feign、MyBatis。
+- 缓存技术： Redis、Redission、MongoDB。
+- rpc：Feign、Grpc。
+- 链路追踪：SkyWalking。
+- 数据库管理： MySQL、Oracle、优化及管理、SQL调优。
+- 消息队列： RocketMQ。
+- 操作系统与运维： Linux常用命令。
+- 容器化技术： Docker、Dockerfile、harbor、rancher。
+- 版本控制： Git、SVN。
+- 其他技术： --了解ElasticSearch、Nginx、分库分表策略、数据结构、设计模式、领域驱动设计(DDD)、JVM; 了解HTML、CSS、JavaScript、Echarts、Vue2、ElementUI、AntDesign等技术；了解Axure RP、墨刀工具，能设计原型图和编写需求文档；了解阿里大数据组件DataWorks、MaxCompute；了解帆软报表开发；了解Python。
 
 ### 🌱 What do I do and What have I done? 
 
