@@ -1,7 +1,42 @@
-## Hi there 👋
+# Hello, geeks! 👋
+
+● 编程与逻辑思维： 具备良好的编程和逻辑思维能力，能够高效地分析问题并设计合理的解决方案。
+● 自学能力： 拥有较强的自学能力，能够迅速掌握新技术并将其应用于实践中。
+● 独立工作： 能够独立完成功能模块的开发和技术研究，具有较强的问题解决能力。
+● 抗压能力： 能够承受较强的工作压力，适应高强度的工作环境，并愿意接受一定强度的加班。
+● 团队合作： 具备良好的团队合作意识和责任意识，乐于与团队成员分享知识和经验，热爱技术学习和分享，不断追求技术进步和个人成长。
+
+### 😄 Pronouns
+
+
+### 🌱 What do I do and What have I done? 
+
+- 7年java开发 会点前端、会点运维、会点产品 从事过农业、证券、电力、水务相关业务，
+
+
+### ⚡ One line that describes me best? 
+勇敢的人 先享受世界.
+努力的人 不会被辜负.😉😉
+
+### 📫 How to reach me?
+- My personal blog- [soeasyeasy](https://soeasyeasy.github.io/)
+
+你可以问我任何问题（在合理范围内）。我期待着吸收知识🧠、积累经验🏭、合作🤝并为世界🌍打造出色的产品🏭！
+
+
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/garimasingh128/count.svg" />
+</p>
+
+<img src="stats.gif" width="90%"><br/><br/>
+
+***
+
+
 
 <!--
-**soeasyeasy/soeasyeasy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**garimasingh128/garimasingh128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
