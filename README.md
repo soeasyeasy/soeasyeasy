@@ -14,7 +14,7 @@
 - 7年java开发 会点前端、会点运维、会点产品 从事过农业、证券、电力、水务相关业务，
 
 ### ⚡ One line that describes me best? 
-勇敢的人 先享受世界.
+勇敢的人 先享受世界.<br>
 努力的人 不会被辜负.😉😉
 
 ### 📫 How to reach me?
