@@ -1,5 +1,7 @@
 # Hello! 👋
+### 🌱 What do I do and What have I done? 
 
+- 18年毕业 至今主要做java后端开发 也参与过前端、运维、产品相关工作  处理过农业、证券、电力、水务等业务.
 - 编程与逻辑思维： 具备良好的编程和逻辑思维能力，能够高效地分析问题并设计合理的解决方案。
 - 自学能力： 拥有较强的自学能力，能够迅速掌握新技术并将其应用于实践中。
 - 独立工作： 能够独立完成功能模块的开发和技术研究，具有较强的问题解决能力。
@@ -17,10 +19,6 @@
 - 容器化技术： Docker、Dockerfile、harbor、rancher。
 - 版本控制： Git、SVN。
 - 其他技术：了解ElasticSearch、Nginx、分库分表策略、数据结构、设计模式、领域驱动设计(DDD)、JVM;了解HTML、CSS、JavaScript、Echarts、Vue2、ElementUI、AntDesign等技术；了解Axure RP、墨刀工具，能设计原型图和编写需求文档；了解阿里大数据组件DataWorks、MaxCompute；了解帆软报表开发；了解Python。
-
-### 🌱 What do I do and What have I done? 
-
-- 18年毕业 至今主要做java后端开发 也参与过前端、运维、产品相关工作  处理过农业、证券、电力、水务等业务.
 
 ### ⚡ One line that describes me best? 
 勇敢的人 先享受世界.<br>
