@@ -17,12 +17,12 @@
 - 容器化技术： Docker、Dockerfile、harbor、rancher。
 - 版本控制： Git、SVN。
 - 其他技术：
-  了解ElasticSearch、Nginx、分库分表策略、数据结构、设计模式、领域驱动设计(DDD)、JVM;
-  了解HTML、CSS、JavaScript、Echarts、Vue2、ElementUI、AntDesign等技术；
-  了解Axure RP、墨刀工具，能设计原型图和编写需求文档；
-  了解阿里大数据组件DataWorks、MaxCompute；
-  了解帆软报表开发；
-  了解Python。
+  了解ElasticSearch、Nginx、分库分表策略、数据结构、设计模式、领域驱动设计(DDD)、JVM;<br>
+  了解HTML、CSS、JavaScript、Echarts、Vue2、ElementUI、AntDesign等技术；<br>
+  了解Axure RP、墨刀工具，能设计原型图和编写需求文档；<br>
+  了解阿里大数据组件DataWorks、MaxCompute；<br>
+  了解帆软报表开发；<br>
+  了解Python。<br>
 
 ### 🌱 What do I do and What have I done? 
 
