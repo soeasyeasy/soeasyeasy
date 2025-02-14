@@ -6,7 +6,7 @@
 - 抗压能力： 能够承受较强的工作压力，适应高强度的工作环境。
 - 团队合作： 具备良好的团队合作意识和责任意识，乐于与团队成员分享知识和经验，热爱技术学习和分享，不断追求技术进步和个人成长。
 
-### 🤔 technology stack
+### 🤔 technology stack：
 - Java核心技术栈： 熟悉Java核心基础、多线程编程、Spring框架家族（包括Spring、Spring Boot、Spring Cloud Alibaba、Spring Gateway、Nacos、Feign）、MyBatis框架及SkyWalking的使用。具备快速构建微服务架构的能力，熟悉面向对象设计原则与多线程编程技巧。
 - 缓存技术： 熟练使用Redis，熟悉分布式锁Redission的使用，对MongoDB有一定了解。
 - 数据库管理： 熟悉MySQL和Oracle数据库的设计、优化及管理，拥有SQL调优经验。
