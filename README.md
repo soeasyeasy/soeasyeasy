@@ -22,13 +22,6 @@
 
 你可以问我任何问题（在合理范围内）。我期待着吸收知识🧠、积累经验🏭、合作🤝并为世界🌍打造出色的产品🏭！
 
-<p align="center"> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/garimasingh128/count.svg" />
-</p>
-
-<img src="stats.gif" width="90%"><br/><br/>
-
 ***
 
 
