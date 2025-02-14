@@ -11,7 +11,7 @@
 
 ### 🌱 What do I do and What have I done? 
 
-- 7年java开发 会点前端、会点运维、会点产品 从事过农业、证券、电力、水务相关业务，
+- 7年java开发 会点前端、会点运维、会点产品 从事过农业、证券、电力、水务相关业务.
 
 ### ⚡ One line that describes me best? 
 勇敢的人 先享受世界.<br>
@@ -20,7 +20,7 @@
 ### 📫 How to reach me?
 - My personal blog- [soeasyeasy](https://soeasyeasy.github.io/)
 
-你可以问我任何问题（在合理范围内）。我期待着吸收知识🧠、积累经验🏭、合作🤝并为世界🌍打造出色的产品🏭！
+💬你可以问我任何问题（在合理范围内）。我期待着吸收知识🧠、积累经验🏭、合作🤝并一起打造出色的产品🏭！
 
 ***
 
