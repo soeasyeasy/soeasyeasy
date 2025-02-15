@@ -10,7 +10,7 @@
 - 团队合作： 具备良好的团队合作意识和责任意识，乐于与团队成员分享知识和经验，热爱技术学习和分享，不断追求技术进步和个人成长。
 
 ### 🤔 technology stack：
-- Java核心技术栈： Java核心基础、多线程编程、Spring、Spring Boot、Spring Cloud Alibaba、Spring Gateway、Nacos、Feign、MyBatis。
+- Java核心技术栈： Java核心基础、多线程编程、Spring、Spring Boot、Spring Cloud Alibaba、Spring Gateway、Nacos、MyBatis。
 - 缓存技术： Redis、Redission、MongoDB。
 - rpc：Feign、Grpc。
 - 链路追踪：SkyWalking。
