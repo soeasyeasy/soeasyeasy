@@ -27,7 +27,7 @@
 -->
 
 ### 📫 怎么找到我
-- 我都个人博客- [soeasyeasy](https://soeasyeasy.github.io)
+- 我的个人博客- [soeasyeasy](https://soeasyeasy.github.io)
 
 你可以问我任何问题（在合理范围内）💬。我期待着吸收知识🧠、积累经验🏭、合作🤝并一起打造出色的产品🏭！
 
