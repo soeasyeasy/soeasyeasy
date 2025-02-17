@@ -20,11 +20,9 @@
 - 容器化技术： Docker、Dockerfile、harbor、rancher。
 - 版本控制： Git、SVN。
 - 其他技术：了解ElasticSearch、Nginx、分库分表策略、数据结构、设计模式、领域驱动设计(DDD)、JVM、HTML、CSS、JavaScript、Echarts、Vue2、ElementUI、AntDesign、Axure RP、墨刀工具、阿里大数据组件DataWorks、MaxCompute；帆软报表、了解Python。
-<!--
-### ⚡ One line that describes me best? 
-勇敢的人 先享受世界。<br>
-努力的人 不会被辜负。😉😉
--->
+
+### ⚡ 我的开源项目
+- 快速开发脚手架springcloud- [soeasyeasy-springcloud建造中](https://github.com/soeasyeasy/soeasyeasy-springcloud)
 
 ### 📫 怎么找到我
 - 我的个人博客- [soeasyeasy](https://soeasyeasy.github.io)
