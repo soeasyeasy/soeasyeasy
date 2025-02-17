@@ -1,5 +1,5 @@
 # Hello! 👋
-### 🌱 What do I do and What have I done? 
+### 🌱 个人介绍
 
 18年毕业 至今主要做java后端开发 也参与过前端、运维、产品相关工作。
 
@@ -9,7 +9,7 @@
 - 抗压能力： 能够承受较强的工作压力，适应高强度的工作环境。
 - 团队合作： 具备良好的团队合作意识和责任意识，乐于与团队成员分享知识和经验，热爱技术学习和分享，不断追求技术进步和个人成长。
 
-### 🤔 technology stack：
+### 🤔 技术栈
 - Java核心技术栈： Java核心基础、多线程编程、Spring、Spring Boot、Spring Cloud Alibaba、Spring Gateway、Nacos、MyBatis。
 - 缓存技术： Redis、Redission、MongoDB。
 - rpc：Feign、Grpc。
@@ -20,13 +20,14 @@
 - 容器化技术： Docker、Dockerfile、harbor、rancher。
 - 版本控制： Git、SVN。
 - 其他技术：了解ElasticSearch、Nginx、分库分表策略、数据结构、设计模式、领域驱动设计(DDD)、JVM、HTML、CSS、JavaScript、Echarts、Vue2、ElementUI、AntDesign、Axure RP、墨刀工具、阿里大数据组件DataWorks、MaxCompute；帆软报表、了解Python。
-
+<!--
 ### ⚡ One line that describes me best? 
 勇敢的人 先享受世界。<br>
 努力的人 不会被辜负。😉😉
+-->
 
-### 📫 How to reach me?
-- My personal blog- [soeasyeasy](https://soeasyeasy.github.io)
+### 📫 怎么找到我
+- 我都个人博客- [soeasyeasy](https://soeasyeasy.github.io)
 
 你可以问我任何问题（在合理范围内）💬。我期待着吸收知识🧠、积累经验🏭、合作🤝并一起打造出色的产品🏭！
 
