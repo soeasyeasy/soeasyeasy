@@ -19,7 +19,7 @@
 - 操作系统与运维： Linux常用命令。
 - 容器化技术： Docker、Dockerfile、harbor、rancher。
 - 版本控制： Git、SVN。
-- 其他技术：了解ElasticSearch、Nginx、分库分表策略、数据结构、设计模式、领域驱动设计(DDD)、JVM;了解HTML、CSS、JavaScript、Echarts、Vue2、ElementUI、AntDesign等技术；了解Axure RP、墨刀工具，能设计原型图和编写需求文档；了解阿里大数据组件DataWorks、MaxCompute；了解帆软报表开发；了解Python。
+- 其他技术：了解ElasticSearch、Nginx、分库分表策略、数据结构、设计模式、领域驱动设计(DDD)、JVM、HTML、CSS、JavaScript、Echarts、Vue2、ElementUI、AntDesign、Axure RP、墨刀工具、阿里大数据组件DataWorks、MaxCompute；帆软报表、了解Python。
 
 ### ⚡ One line that describes me best? 
 勇敢的人 先享受世界。<br>
