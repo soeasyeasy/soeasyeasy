@@ -25,7 +25,7 @@
 - 快速开发脚手架springcloud- [soeasyeasy-springcloud建造中](https://github.com/soeasyeasy/soeasyeasy-springcloud)
 
 ### 📫 怎么找到我
-- 我的个人博客- [soeasyeasy](https://soeasyeasy.github.io)
+- 我的个人博客- [soeasyeasy](https://www.soeasyeasy.com)
 
 你可以问我任何问题（在合理范围内）💬。我期待着吸收知识🧠、积累经验🏭、合作🤝并一起打造出色的产品🏭！
 
